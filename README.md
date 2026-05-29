@@ -15,3 +15,32 @@
 - **🤖 AI Agents**: Long-horizon autonomous agents — context engineering, agent harness design, Agent Skills, multi-agent orchestration, MCP, tool-use & sandboxed execution, and RAG over long docs.
 - **🖥️ Full-Stack**: End-to-end product delivery — API design (REST/GraphQL), authentication & authorization, async backends, modern frontends (React/Next.js/Vue), CI/CD pipelines, and cloud deployment.
 - **🌐 Distributed Systems**: Scalable architectures — service decomposition, message queues (Kafka/RabbitMQ), event-driven workflows, distributed caching, consistency & fault tolerance, and cloud-native microservices on Kubernetes.
+
+
+### 🌱 Open Source Contributions
+
+
+### 🔥 Achievements
+
+
+### 🍉 Tech Stack
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=go,python,java,rust,ts,js,php,lua)](https://skillicons.dev)
+
+**Backend & Frameworks**
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,flask,django,spring,gin)](https://skillicons.dev)
+
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,html,css)](https://skillicons.dev)
+
+**Databases & Messaging**
+
+[![Data](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka,rabbitmq,elasticsearch)](https://skillicons.dev)
+
+**DevOps & Infrastructure**
+
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,linux,git,github,grafana)](https://skillicons.dev)
