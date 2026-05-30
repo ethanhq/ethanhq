@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=24&color=1E40AF&center=true&vCenter=true&width=600&height=36&pause=100000&lines=%F0%9F%91%8B+Hi+there!+I'm+Ethanhq" alt="Hi there! I'm Ethanhq"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=24&color=1E40AF&center=true&vCenter=true&width=600&height=36&pause=100000&lines=%F0%9F%91%8B+Hi+there!+I'm+Ethan+Guo" alt="Hi there! I'm Ethan Guo"/>
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=18&color=1E40AF&center=true&vCenter=true&width=780&pause=100000&lines=%F0%9F%A4%96+AI+Agent+Builder+%2F+%F0%9F%9A%80+Full-Stack+Dev+%2F+%F0%9F%8C%9F+OSS+Enthusiast+%F0%9F%A4%9A" alt="Roles"/>
   <p>
