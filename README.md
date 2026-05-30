@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=18&color=1E40AF&center=true&vCenter=true&width=780&pause=100000&lines=%F0%9F%A4%96+AI+Agent+Builder+%2F+%F0%9F%9A%80+Full-Stack+Dev+%2F+%F0%9F%8C%9F+OSS+Enthusiast+%F0%9F%A4%9A" alt="Roles"/>
   <p>
     <a href="mailto:ethanguo.dev@gmail.com"><img src="https://img.shields.io/badge/-ethanguo.dev@gmail.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square" alt="email"/></a>
+    <a href="https://x.com/ethanhq_dev"><img src="https://img.shields.io/badge/-@ethanhq__dev-black?labelColor=black&logo=x&logoColor=white&style=flat-square" alt="X"/></a>
   </p>
 </div>
 
