@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=16&color=0B3D91&center=true&vCenter=true&width=900&height=22&pause=999999999&lines=3%2B+years+of+backend+engineering++%F0%9F%9A%80++now+focused+on+AI+Agents+%26+LLM-powered+applications" alt="3+ years of backend engineering · now focused on AI Agents & LLM-powered applications"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=16&color=0B3D91&center=true&vCenter=true&width=900&height=22&pause=999999999&lines=3%2B+years+of+backend+engineering++%F0%9F%A7%A0++now+focused+on+AI+Agents+%26+LLM-powered+applications" alt="3+ years of backend engineering · now focused on AI Agents & LLM-powered applications"/>
 </p>
 
 ### ⚒️ Skills
