@@ -24,7 +24,7 @@ I build and maintain open-source AI Agent projects. Some of my work:
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [**ethanhq/cc-fleet**](https://github.com/ethanhq/cc-fleet) | Run third-party LLMs (DeepSeek, GLM, Qwen, etc.) as native Claude Code teammates or one-shot subagents — a Go CLI plus Claude Code skill | ![Stars](https://img.shields.io/github/stars/ethanhq/cc-fleet?style=flat-square&logo=github&label=) |
+| [**ethanhq/cc-fleet**](https://github.com/ethanhq/cc-fleet) | Run Claude Code's Dynamic Workflows, Agent Teams & Subagents on any third-party model — DeepSeek, GLM, Qwen … or your Codex subscription. No Anthropic subscription needed. | ![Stars](https://img.shields.io/github/stars/ethanhq/cc-fleet?style=flat-square&logo=github&label=) |
 
 
 ### 🔥 Achievements
