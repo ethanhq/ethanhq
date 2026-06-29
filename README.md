@@ -20,11 +20,19 @@
 
 ### 🌱 Open Source Contributions
 
-I build and maintain open-source AI Agent projects. Some of my work:
+I build and maintain open-source AI Agent projects, and contribute upstream to others.
+
+#### 🛠️ Projects I Maintain
 
 | Project | Description | Stars |
 |---------|-------------|-------|
 | [**ethanhq/cc-fleet**](https://github.com/ethanhq/cc-fleet) | Run Claude Code's Dynamic Workflows, Agent Teams & Subagents on any third-party model — DeepSeek, GLM, Qwen … or your Codex subscription. No Anthropic subscription needed. | ![Stars](https://img.shields.io/github/stars/ethanhq/cc-fleet?style=flat-square&logo=github&label=) |
+
+#### 🤝 Contributions to Other Projects
+
+| Project | Description | Stars | PRs |
+|---------|-------------|-------|-----|
+| [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) | Self-improving AI agent by Nous Research with a built-in learning loop — autonomous skill creation, self-improving skills, cross-session memory, and multi-platform gateways (Telegram/Discord/Slack/CLI) | ![Stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square&logo=github&label=) | [#19576](https://github.com/NousResearch/hermes-agent/pull/19576) · [#25788](https://github.com/NousResearch/hermes-agent/pull/25788) |
 
 
 ### 🔥 Achievements
