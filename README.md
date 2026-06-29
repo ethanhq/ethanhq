@@ -32,7 +32,7 @@ I build and maintain open-source AI Agent projects, and contribute upstream to o
 
 | Project | Description | Stars | PRs |
 |---------|-------------|-------|-----|
-| [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) | Self-improving AI agent by Nous Research with a built-in learning loop — autonomous skills, cross-session memory, multi-platform gateways. | ![Stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square&logo=github&label=) | [#19576](https://github.com/NousResearch/hermes-agent/pull/19576); [#25788](https://github.com/NousResearch/hermes-agent/pull/25788) |
+| [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) | Self-improving AI agent by Nous Research with a built-in learning loop. | ![Stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square&logo=github&label=) | [#19576](https://github.com/NousResearch/hermes-agent/pull/19576);&nbsp;[#25788](https://github.com/NousResearch/hermes-agent/pull/25788) |
 
 
 ### 🔥 Achievements
