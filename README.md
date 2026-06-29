@@ -33,6 +33,7 @@ I build and maintain open-source AI Agent projects, and contribute upstream to o
 | Project | Description | Stars | PRs |
 |---------|-------------|-------|-----|
 | [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) | Self-improving AI agent by Nous Research with a built-in learning loop. | ![Stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square&logo=github&label=) | [#19576](https://github.com/NousResearch/hermes-agent/pull/19576);&nbsp;[#25788](https://github.com/NousResearch/hermes-agent/pull/25788) |
+| [**nexu-io/open-design**](https://github.com/nexu-io/open-design) | Local-first, open-source Claude Design alternative — native desktop app. | ![Stars](https://img.shields.io/github/stars/nexu-io/open-design?style=flat-square&logo=github&label=) | [![merged PRs](https://img.shields.io/github/issues-search/nexu-io/open-design?query=is%3Apr%20is%3Amerged%20author%3AEthanGuo-coder&label=merged%20PRs&style=flat-square&logo=github)](https://github.com/nexu-io/open-design/pulls?q=is%3Apr+is%3Amerged+author%3AEthanGuo-coder) |
 
 
 ### 🔥 Achievements
