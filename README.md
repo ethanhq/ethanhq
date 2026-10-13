@@ -32,14 +32,14 @@ I build and maintain open-source AI Agent projects, and contribute upstream to o
 
 | Project | Description | Stars | PRs |
 |---------|-------------|-------|-----|
-| [**ggml-org/llama.cpp**](https://github.com/ggml-org/llama.cpp) | LLM inference in C/C++. | ![Stars](https://img.shields.io/github/stars/ggml-org/llama.cpp?style=flat-square&logo=github&label=) | [#29570](https://github.com/ggml-org/llama.cpp/pull/29570);&nbsp;[#29638](https://github.com/ggml-org/llama.cpp/pull/29638) |
+| [**ggml-org/llama.cpp**](https://github.com/ggml-org/llama.cpp) | LLM inference in C/C++. | ![Stars](https://img.shields.io/github/stars/ggml-org/llama.cpp.svg?style=flat-square&logo=github&label=) | [#29570](https://github.com/ggml-org/llama.cpp/pull/29570);&nbsp;[#29638](https://github.com/ggml-org/llama.cpp/pull/29638) |
 | [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) | Self-improving AI agent by Nous Research with a built-in learning loop. | ![Stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square&logo=github&label=) | [#19576](https://github.com/NousResearch/hermes-agent/pull/19576);&nbsp;[#25788](https://github.com/NousResearch/hermes-agent/pull/25788) |
 | [**nexu-io/open-design**](https://github.com/nexu-io/open-design) | Local-first, open-source Claude Design alternative — native desktop app. | ![Stars](https://img.shields.io/github/stars/nexu-io/open-design?style=flat-square&logo=github&label=) | [![merged PRs](https://img.shields.io/github/issues-search/nexu-io/open-design?query=is%3Apr%20is%3Amerged%20author%3AEthanGuo-coder&label=merged%20PRs&style=flat-square&logo=github)](https://github.com/nexu-io/open-design/pulls?q=is%3Apr+is%3Amerged+author%3AEthanGuo-coder) |
 
 
 ### 🔥 Achievements
 
-- 🏅 **`highlight` PR in llama.cpp** — [#29570](https://github.com/ggml-org/llama.cpp/pull/29570) adds a Metal flash-attention kernel for Apple M5 GPUs: ~2× on the attention op, +45% prompt processing at 32K context. Flagged by the maintainers to be highlighted in the release notes.
+- 🏅 **llama.cpp `highlight` PR** [#29570](https://github.com/ggml-org/llama.cpp/pull/29570) — Metal flash-attention kernel for Apple M5 GPUs: ~2× attention throughput, +45% prompt processing at 32K context.
 
 
 ### 🍉 Tech Stack
