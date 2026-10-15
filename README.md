@@ -18,9 +18,12 @@
 - **🌐 Distributed Systems**: Scalable architectures — service decomposition, message queues (Kafka/RabbitMQ), event-driven workflows, distributed caching, consistency & fault tolerance, and cloud-native microservices on Kubernetes.
 
 
-### 🌱 Open Source Contributions
+### 🔥 Achievements
 
-I build and maintain open-source AI Agent projects, and contribute upstream to others.
+- 🏅 **llama.cpp `highlight` PR** [#29570](https://github.com/ggml-org/llama.cpp/pull/29570) — Metal flash-attention kernel for Apple M5 GPUs: ~2× attention throughput, +45% prompt processing at 32K context.
+
+
+### 🌱 Open Source Contributions
 
 #### 🛠️ Projects I Maintain
 
@@ -30,16 +33,79 @@ I build and maintain open-source AI Agent projects, and contribute upstream to o
 
 #### 🤝 Contributions to Other Projects
 
-| Project | Description | Stars | PRs |
-|---------|-------------|-------|-----|
-| [**ggml-org/llama.cpp**](https://github.com/ggml-org/llama.cpp) | LLM inference in C/C++. | ![Stars](https://img.shields.io/github/stars/ggml-org/llama.cpp.svg?style=flat-square&logo=github&label=) | [#29570](https://github.com/ggml-org/llama.cpp/pull/29570);&nbsp;[#29638](https://github.com/ggml-org/llama.cpp/pull/29638);&nbsp;[#30491](https://github.com/ggml-org/llama.cpp/pull/30491) |
-| [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) | Self-improving AI agent by Nous Research with a built-in learning loop. | ![Stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square&logo=github&label=) | [#19576](https://github.com/NousResearch/hermes-agent/pull/19576);&nbsp;[#25788](https://github.com/NousResearch/hermes-agent/pull/25788) |
-| [**nexu-io/open-design**](https://github.com/nexu-io/open-design) | Local-first, open-source Claude Design alternative — native desktop app. | ![Stars](https://img.shields.io/github/stars/nexu-io/open-design?style=flat-square&logo=github&label=) | [![merged PRs](https://img.shields.io/github/issues-search/nexu-io/open-design?query=is%3Apr%20is%3Amerged%20author%3AEthanGuo-coder&label=merged%20PRs&style=flat-square&logo=github)](https://github.com/nexu-io/open-design/pulls?q=is%3Apr+is%3Amerged+author%3AEthanGuo-coder) |
-
-
-### 🔥 Achievements
-
-- 🏅 **llama.cpp `highlight` PR** [#29570](https://github.com/ggml-org/llama.cpp/pull/29570) — Metal flash-attention kernel for Apple M5 GPUs: ~2× attention throughput, +45% prompt processing at 32K context.
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Stars</th>
+    <th colspan="2">PRs</th>
+  </tr>
+  <tr>
+    <td rowspan="3"><a href="https://github.com/ggml-org/llama.cpp"><b>ggml-org/llama.cpp</b></a></td>
+    <td rowspan="3">LLM inference in C/C++</td>
+    <td rowspan="3" align="center"><img src="https://img.shields.io/github/stars/ggml-org/llama.cpp.svg?style=flat-square&amp;logo=github&amp;label=" alt="Stars"/></td>
+    <td align="center"><a href="https://github.com/ggml-org/llama.cpp/pull/29570">#29570</a></td>
+    <td>Tensor-API flash attention kernel for Apple M5 GPUs</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ggml-org/llama.cpp/pull/29638">#29638</a></td>
+    <td>Stop accepting speculative draft tokens at EOG</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ggml-org/llama.cpp/pull/30491">#30491</a></td>
+    <td>BF16 variant of the M5 flash attention kernel</td>
+  </tr>
+  <tr>
+    <td rowspan="2"><a href="https://github.com/NousResearch/hermes-agent"><b>NousResearch/hermes-agent</b></a></td>
+    <td rowspan="2">Self-improving AI agent</td>
+    <td rowspan="2" align="center"><img src="https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square&amp;logo=github&amp;label=" alt="Stars"/></td>
+    <td align="center"><a href="https://github.com/NousResearch/hermes-agent/pull/19576">#19576</a></td>
+    <td>Recover cron jobs stuck without a next run time</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/NousResearch/hermes-agent/pull/25788">#25788</a></td>
+    <td>Handle reasoning-only stream chunks from Gemini</td>
+  </tr>
+  <tr>
+    <td rowspan="9"><a href="https://github.com/nexu-io/open-design"><b>nexu-io/open-design</b></a></td>
+    <td rowspan="9">Open-source Claude Design alternative</td>
+    <td rowspan="9" align="center"><img src="https://img.shields.io/github/stars/nexu-io/open-design?style=flat-square&amp;logo=github&amp;label=" alt="Stars"/></td>
+    <td align="center"><a href="https://github.com/nexu-io/open-design/pull/5121">#5121</a></td>
+    <td>Block SSRF in brand-extraction fetches</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/nexu-io/open-design/pull/5146">#5146</a></td>
+    <td>Fix Windows command injection in host-tool launch</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/nexu-io/open-design/pull/5113">#5113</a></td>
+    <td>Fix ReDoS in design-system swatch parsers</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/nexu-io/open-design/pull/5027">#5027</a></td>
+    <td>Reject path-traversal IDs in prompt templates</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/nexu-io/open-design/pull/5847">#5847</a></td>
+    <td>Sanitize deck thumbnail markup with DOMPurify</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/nexu-io/open-design/pull/2110">#2110</a></td>
+    <td>Parse DESIGN.md YAML frontmatter for presets</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/nexu-io/open-design/pull/1951">#1951</a></td>
+    <td>Manual removal of captured Pod components</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/nexu-io/open-design/pull/5740">#5740</a></td>
+    <td>Abort oversized or failed Composio logo fetches</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/nexu-io/open-design/pulls?q=is%3Apr+is%3Amerged+author%3AEthanGuo-coder"><img src="https://img.shields.io/github/issues-search/nexu-io/open-design?query=is%3Apr%20is%3Amerged%20author%3AEthanGuo-coder&amp;label=merged%20PRs&amp;style=flat-square&amp;logo=github" alt="merged PRs"/></a></td>
+    <td>More fixes, features &amp; test coverage</td>
+  </tr>
+</table>
 
 
 ### 🍉 Tech Stack
